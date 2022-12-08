@@ -4,6 +4,10 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo library access is required to save contact photo</string>
+	<key>NSCameraUsageDescription</key>
+    <string>Camera library access is required to save contact photo</string>
 	<key>CFBundleDisplayName</key>
 	<string>Contacts Flutter</string>
 	<key>CFBundleExecutable</key>
